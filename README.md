@@ -19,6 +19,7 @@ The repository contains completed solutions covering different areas of algorith
 ├── OII/
 ├── OIS/
 ├── IIOT/
+├── Info1Cup
 └── README.md
 ```
 
